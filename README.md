@@ -59,36 +59,21 @@ and solving real-world problems with AI & Full Stack development.
 
 <div align="center">
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://github.com/Naveen-Arul/Naveen-Arul/blob/output/github-contribution-grid-snake-dark.svg" />
-  <img
-    src="https://github.com/Naveen-Arul/Naveen-Arul/blob/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</picture>
+## 📊Analytics
 
 </div>
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Naveen-Arul&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
-<br/><br/>
+
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=Naveen-Arul&theme=tokyonight&hide_border=false" />
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Arul&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
 
 </p>
 
----
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Naveen-Arul&icon=1&color=1" />
-</p>
 
 
 <div align="center">
