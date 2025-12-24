@@ -41,17 +41,13 @@
 ---
 
 ## 📊 GitHub Stats (Realtime)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveen-Arul&show_icons=true&theme=react&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Naveen-Arul&theme=react&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Arul&layout=compact&theme=react&hide_border=true" />
-</p>
+
 
 ---
 
