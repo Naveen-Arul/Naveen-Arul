@@ -1,91 +1,123 @@
-## Hi there 👋 I'm **Naveen A**
-**Full Stack Developer | AI/ML Enthusiast**
+## Hi there 👋 I'm Naveen A  
 
 <p align="center">
-🚀 Building intelligent systems & scalable web apps using AI, ML, and Full-Stack technologies
+🧠 AI & Data Science Student | Full Stack Developer | Exploring ML, NLP & Web Systems 🧠
 </p>
 
-<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="230px" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="150px" />
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 B.Tech AI & Data Science @ Kongu Engineering College (CGPA: 8.49)
-- 🧠 Strong in **Machine Learning, Web Development, and Data Science**
-- 🔭 Currently working on **AI-powered interview & OCR platforms**
-- 🌱 Practicing **DSA daily on LeetCode**
-- 💼 Intern: **Full Stack Data Scientist @ PunchBiz**
-- 💬 Ask me about **AI, ML, React, Node.js, SQL**
+- 🔭 I’m currently working on **AI-powered Full Stack & ML projects**
+- 🌱 Actively strengthening **Data Structures & Algorithms**
+- 👯 Open to collaborating on **Machine Learning & Web projects**
+- 💻 I deploy applications using **Netlify, Vercel & Render**
+- 💬 Ask me about **AI, ML, Backend APIs & Full Stack Development**
 
 ---
 
-### 🏆 Certifications
-- 🏅 **Microsoft Certified – Power BI Data Analyst Associate**
-- 🏅 **MongoDB Certified Associate Developer**
-
----
-
-### 🔗 Connect With Me
+### 🔗 Connect with me:
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/naveen2408/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/master/assets/linkedin.svg" height="25"/>
+  <img alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/linkedin.svg" height="25px"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://leetcode.com/u/NaveenA_kec/" target="_blank">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://naveen116.netlify.app/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/25/808080/internet--v1.png"/>
+<a href="https://github.com/Naveen-Arul" target="_blank">
+  <img alt="github" src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"/>
 </a>
 
 ---
 
-## 📊 GitHub Stats (Realtime)
+## 📊 GitHub Activity Graph
+[![Naveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naveen-Arul&theme=react-dark)](https://github.com/Naveen-Arul)
 
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Naveen-Arul&theme=react&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=Naveen-Arul&theme=gotham" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img width="500px" src="https://github-contributor-stats.vercel.app/api?username=Naveen-Arul&limit=5&theme=react&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories" />
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Naveen-Arul&theme=react&hide_border=true" />
-</p>
-
-
-
----
-
-## 🧠 LeetCode Stats (Realtime)
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/NaveenA_kec?theme=dark&font=Baloo&ext=heatmap" />
+  <a href="https://leetcode.com/u/NaveenA_kec/" target="_blank">
+    <img title="Naveen's LeetCode Stats" src="https://leetcard.jacoblin.cool/NaveenA_kec?ext=heatmap" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Programming
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" />
-
-### ⚙️ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,tensorflow" />
-
-### 🗄️ Databases & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,postman,vercel,netlify,render" />
-
----
-
+## 💻 I Code In
+<div>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/python.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/typescript.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/html-5.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" />
+</div>
 
 ---
 
-<!--START_SECTION:Productivity Metrics-->
-<!--END_SECTION:Productivity Metrics-->
+## ⚙️ I Work With
+<div>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/numpy.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/pandas.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/tensorflow.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/opencv.png" />
+</div>
 
 ---
 
-<!--START_SECTION:Environment and Tools-->
-<!--END_SECTION:Environment and Tools-->
+## 🗄️ Databases & Tools
+<div>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,git,postman" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/jupyter.png" />
+</div>
 
 ---
 
-<!--START_SECTION:Code and Project Insights-->
-<!--END_SECTION:Code and Project Insights-->
+## 🚀 Platforms I Use
+<div>
+  <img height="50" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img height="50" src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+</div>
+
+---
+
+## 🎨 I Design & Collaborate With
+<div>
+  <img height="50" width="50" src="https://img.icons8.com/color/48/canva.png" />
+  <img height="50" width="50" src="https://img.icons8.com/color/48/figma--v1.png" />
+</div>
 
 ---
 
