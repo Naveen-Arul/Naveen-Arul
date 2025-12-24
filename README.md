@@ -49,7 +49,24 @@ and solving real-world problems with AI & Full Stack development.
 
 </div>
 
+
 ---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://github.com/Naveen-Arul/Naveen-Arul/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img
+    src="https://github.com/Naveen-Arul/Naveen-Arul/blob/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</picture>
+
+</div>
 
 <div align="center">
 
