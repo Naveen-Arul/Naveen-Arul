@@ -72,6 +72,27 @@
 
 ---
 
+## ⏱️ This Week I Spent My Time On
+
+<!--START_SECTION:productivity-->
+<!--END_SECTION:productivity-->
+
+---
+
+## 🧰 Environment & Tools
+
+<!--START_SECTION:environment-->
+<!--END_SECTION:environment-->
+
+---
+
+## 🧠 Code & Project Insights
+
+<!--START_SECTION:code_project-->
+<!--END_SECTION:code_project-->
+
+---
+
 ## 💻 I Code In
 <div>
   <img height="50" width="50" src="https://img.icons8.com/color/48/python.png" />
