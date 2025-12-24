@@ -13,11 +13,30 @@ and solving real-world problems with AI & Full Stack development.
 
 <div align="center">
 
+## 👨‍💻 About Me
+
+🎓 B.Tech – Artificial Intelligence & Data Science  
+🔭 Working on **AI-powered full stack projects**  
+🌱 Strong focus on **DSA + System Design**  
+👯 Open to collaborate on **ML / Web / GenAI projects**  
+💬 Ask me about **AI, ML, Full Stack Development**
+
+</div>
+
+---
+
+<div align="center">
+
 ## 📊 GitHub Stats
 
+<img
+  src="https://streak-stats.demolab.com?user=Naveen-Arul&theme=react&hide_border=true"
+  width="48%"
+/>
 
-<img src="https://streak-stats.demolab.com?user=Naveen-Arul&theme=react&hide_border=true" width="48%" />
+</div>
 
+---
 
 <div align="center">
 
@@ -30,14 +49,16 @@ and solving real-world problems with AI & Full Stack development.
 
 </div>
 
-
 ---
 
 <div align="center">
 
 ## 🧠 LeetCode Stats
 
-<img src="https://leetcard.jacoblin.cool/NaveenA_kec?ext=heatmap&theme=dark" width="60%" />
+<img
+  src="https://leetcard.jacoblin.cool/NaveenA_kec?ext=heatmap&theme=dark"
+  width="60%"
+/>
 
 </div>
 
@@ -86,7 +107,9 @@ and solving real-world problems with AI & Full Stack development.
 
 ### 🧰 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,jupyter"/>
+
 <br/><br/>
+
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify"/>
@@ -102,7 +125,7 @@ and solving real-world problems with AI & Full Stack development.
 ## 📌 CS Fundamentals
 
 ✔ Data Structures  
-✔ Object Oriented Programming  
+✔ Object-Oriented Programming  
 ✔ Operating Systems  
 ✔ Problem Solving & Algorithms  
 
@@ -127,7 +150,6 @@ and solving real-world problems with AI & Full Stack development.
 </a>
 
 </div>
-
 
 ---
 
