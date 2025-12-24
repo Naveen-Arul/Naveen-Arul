@@ -15,17 +15,21 @@ and solving real-world problems with AI & Full Stack development.
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Naveen-Arul&show_icons=true&theme=react&hide_border=true" width="48%" />
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Naveen-Arul&theme=react&hide_border=true" width="48%" />
 
-<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Arul&layout=compact&theme=react&hide_border=true" width="48%" />
+<div align="center">
+
+## 📈 GitHub Activity Graph
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen-Arul&theme=react-dark&hide_border=true"
+  width="100%"
+/>
 
 </div>
+
 
 ---
 
@@ -123,6 +127,7 @@ and solving real-world problems with AI & Full Stack development.
 </a>
 
 </div>
+
 
 ---
 
