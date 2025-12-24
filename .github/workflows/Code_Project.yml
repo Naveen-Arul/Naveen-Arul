@@ -5,6 +5,9 @@ on:
     - cron: "0 1 * * 0"   # runs weekly
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   code_project:
     runs-on: ubuntu-latest
