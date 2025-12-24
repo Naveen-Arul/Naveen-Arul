@@ -1,104 +1,133 @@
-## Hi there 👋 I'm Naveen A
+<div align="center">
 
-<p align="center">
-🚀 Full Stack Developer | AI/ML Enthusiast  
-Building intelligent systems & scalable web applications
-</p>
+# 👋 Hi, I'm Naveen A
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="150px"/>
+### Full Stack Developer | AI/ML Enthusiast
 
----
+🧠 Passionate about building intelligent systems, scalable web apps,  
+and solving real-world problems with AI & Full Stack development.
 
-### 👨‍💻 About Me
-- 🎓 B.Tech – Artificial Intelligence & Data Science  
-- 🔭 Working on **AI-powered full stack projects**
-- 🌱 Strong focus on **DSA + System Design**
-- 👯 Open to collaborate on **ML / Web / GenAI projects**
-- 💬 Ask me about **AI, ML, Full Stack Development**
+</div>
 
 ---
 
-### 🔗 Connect with Me
-<a href="https://www.linkedin.com/in/naveen2408/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/linkedin.svg" height="25px"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://leetcode.com/u/NaveenA_kec/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="25px"/>
-</a>
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Naveen-Arul&show_icons=true&theme=react&hide_border=true" width="48%" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Naveen-Arul&theme=react&hide_border=true" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Arul&layout=compact&theme=react&hide_border=true" width="48%" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats (Realtime)
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveen-Arul&show_icons=true&theme=react&hide_border=true" />
-</p>
+## 🧠 LeetCode Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Naveen-Arul&theme=react&hide_border=true" />
-</p>
+<img src="https://leetcard.jacoblin.cool/NaveenA_kec?ext=heatmap&theme=dark" width="60%" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Arul&layout=compact&theme=react&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🧠 LeetCode Stats (Realtime)
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/NaveenA_kec?ext=heatmap&theme=dark" />
-</p>
-
----
+<div align="center">
 
 ## 🛠️ Technical Skills
 
-### 💻 Languages
-<p>
-  <img src="https://img.icons8.com/color/48/python.png"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png"/>
-  <img src="https://img.icons8.com/color/48/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/typescript.png"/>
-</p>
+### 💻 Programming Languages
+<img src="https://img.icons8.com/color/48/python.png"/>
+&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/c-programming.png"/>
+&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/javascript.png"/>
+&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/typescript.png"/>
+
+<br/><br/>
 
 ### 🎨 Frontend
-<p>
-  <img src="https://img.icons8.com/color/48/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/css3.png"/>
-  <img src="https://skillicons.dev/icons?i=react,tailwind"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,ts"/>
+
+<br/><br/>
 
 ### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi"/>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi"/>
 
-### 🗄 Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql"/>
-</p>
+<br/><br/>
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+
+<br/><br/>
 
 ### 🤖 AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
-  <img src="https://img.icons8.com/color/48/artificial-intelligence.png"/>
-</p>
+<img src="https://img.icons8.com/color/48/tensorflow.png"/>
+&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/opencv.png"/>
+&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png"/>
+
+<br/><br/>
 
 ### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
-  <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-000?logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-000?logo=render&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,jupyter"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render"/>
+
+</div>
 
 ---
 
-### 🚀 Quote I Live By
-> *“Build things that teach you something new every day.”*
+<div align="center">
+
+## 📌 CS Fundamentals
+
+✔ Data Structures  
+✔ Object Oriented Programming  
+✔ Operating Systems  
+✔ Problem Solving & Algorithms  
+
+</div>
 
 ---
+
+<div align="center">
+
+## 🔗 Connect With Me
+
+<a href="https://www.linkedin.com/in/naveen2408">
+  <img src="https://img.icons8.com/color/48/linkedin.png"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Naveen-Arul">
+  <img src="https://img.icons8.com/color/48/github.png"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:naveenarul111@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail.png"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 “Code. Learn. Build. Repeat.”
+
+</div>
