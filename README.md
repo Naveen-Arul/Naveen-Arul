@@ -75,8 +75,6 @@
 
 ---
 
-## 🎨 Design & Collaboration
-<img src="https://skillicons.dev/icons?i=figma,canva" />
 
 ---
 
