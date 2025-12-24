@@ -2,7 +2,12 @@
 
 # 👋 Hi, I'm Naveen A
 
-### Full Stack Developer | AI/ML Enthusiast
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Always+Learning+%26+Building" />
+
+</div>
+
 
 🧠 Passionate about building intelligent systems, scalable web apps,  
 and solving real-world problems with AI & Full Stack development.
