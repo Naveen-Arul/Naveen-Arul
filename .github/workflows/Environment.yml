@@ -22,6 +22,6 @@ jobs:
           SHOW_EDITORS: true
           SHOW_OS: true
           SHOW_PROJECTS: false
-          SHOW_LANGUAGES: false
+          SHOW_LANGUAGE: false
           SHOW_TIMEZONE: false
           SECTION_NAME: Environment and Tools
