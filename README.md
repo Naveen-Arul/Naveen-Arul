@@ -6,11 +6,13 @@
 
 ## 📊 GitHub Stats (Realtime)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naveen-Arul&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Naveen-Arul&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Arul&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveen-Arul&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-Arul&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Arul&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -20,15 +22,21 @@
 
 ---
 
-<!--START_SECTION:Productivity Metrics-->
-<!--END_SECTION:Productivity Metrics-->
+## ⏱️ This Week I Spent My Time On
+
+<!--START_SECTION:productivity-->
+<!--END_SECTION:productivity-->
 
 ---
 
-<!--START_SECTION:Environment and Tools-->
-<!--END_SECTION:Environment and Tools-->
+## 🧰 Environment & Tools
+
+<!--START_SECTION:environment-->
+<!--END_SECTION:environment-->
 
 ---
 
-<!--START_SECTION:Code and Project Insights-->
-<!--END_SECTION:Code and Project Insights-->
+## 🧠 Code & Project Insights
+
+<!--START_SECTION:code_project-->
+<!--END_SECTION:code_project-->
