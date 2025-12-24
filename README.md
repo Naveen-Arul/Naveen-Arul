@@ -17,3 +17,18 @@
 ## 🧠 LeetCode Stats (Realtime)
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/NaveenA_kec?theme=dark&font=baloo)
+
+---
+
+<!--START_SECTION:Productivity Metrics-->
+<!--END_SECTION:Productivity Metrics-->
+
+---
+
+<!--START_SECTION:Environment and Tools-->
+<!--END_SECTION:Environment and Tools-->
+
+---
+
+<!--START_SECTION:Code and Project Insights-->
+<!--END_SECTION:Code and Project Insights-->

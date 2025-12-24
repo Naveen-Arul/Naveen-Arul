@@ -1,9 +1,12 @@
 name: Code and Project Insights
 
 on:
-  schedule:
-    - cron: "0 1 * * 0"   # runs weekly
   workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * 0"
+
+permissions:
+  contents: write
 
 jobs:
   code_project:
@@ -11,15 +14,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update code & project stats
+      - name: Update Code and Project Insights
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_LANGUAGE: true
           SHOW_PROJECTS: true
-          SHOW_TIMEZONE: false
-          SHOW_EDITORS: false
-          SHOW_OS: false
-          SHOW_COMMIT: false
+          SHOW_UPDATED_DATE: true
           SECTION_NAME: Code and Project Insights
