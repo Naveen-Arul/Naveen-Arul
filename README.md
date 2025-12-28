@@ -32,19 +32,6 @@ and solving real-world problems with AI & Full Stack development.
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img
-  src="https://streak-stats.demolab.com?user=Naveen-Arul&theme=react&hide_border=true"
-  width="48%"
-/>
-
-</div>
-
----
-
-<div align="center">
-
 ## 📈 GitHub Activity Graph
 
 <img
